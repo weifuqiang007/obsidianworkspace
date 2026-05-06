@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777696293199-jnronpxcy",
+  "providerId": "claude",
+  "title": "Tag conda sparknoteai environment Python 3.11",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777696293200,
+  "updatedAt": 1778047141290,
+  "lastResponseAt": 1778047141290,
+  "sessionId": "984ce994-01f9-4391-b683-dd2c024a3ed1",
+  "providerState": {
+    "providerSessionId": "984ce994-01f9-4391-b683-dd2c024a3ed1"
+  },
+  "currentNote": "sparknotbook源码解析/基础环境以及配置.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

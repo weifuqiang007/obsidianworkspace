@@ -29,10 +29,12 @@
 
 #### 业务模块
 - [[auth模块/auth模块业务拆解]] - 认证模块完整业务拆解
+- [[note模块/note模块业务拆解]] - 笔记模块完整业务拆解
 
 #### 公共组件
 - [[common/utils/user_data模型]] - 用户数据模型定义
 - [[common/utils/auth工具]] - 认证工具函数详解
+- [[common/utils/加密工具]] - API 密钥加密解密工具
 - [[common/services/user_session]] - 用户会话管理模块
 - [[common/core/config]] - 应用配置管理系统
 - [[common/core/logger]] - 日志记录系统

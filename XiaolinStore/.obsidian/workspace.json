@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sparknotbook源码解析/README.md",
+                "file": "sparknotbook源码解析/note模块/note模块业务拆解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "note模块业务拆解"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sparknotbook源码解析/README.md",
+                "file": "sparknotbook源码解析/note模块/note模块业务拆解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "note模块业务拆解 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sparknotbook源码解析/README.md",
+                "file": "sparknotbook源码解析/note模块/note模块业务拆解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "note模块业务拆解 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sparknotbook源码解析/README.md",
+                "file": "sparknotbook源码解析/note模块/note模块业务拆解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "note模块业务拆解 的大纲"
             }
           },
           {
@@ -197,10 +197,14 @@
   },
   "active": "fc1b8be222a1f44d",
   "lastOpenFiles": [
+    "sparknotbook源码解析/定时器任务源码解析.md",
+    "sparknotbook源码解析/note模块/note模块业务拆解.md",
+    "sparknotbook源码解析/README.md",
+    "sparknotbook源码解析/common/utils/加密工具.md",
+    "sparknotbook源码解析/note模块",
     "sparknotbook源码解析/auth模块/auth模块业务拆解.md",
     "sparknotbook源码解析/common/utils/auth工具.md",
     "sparknotbook源码解析/common/utils/user_data模型.md",
-    "sparknotbook源码解析/README.md",
     "sparknotbook源码解析/common/core/logger.md",
     "sparknotbook源码解析/源码阅读要求规范.md",
     "sparknotbook源码解析/common/core/config.md",
@@ -216,7 +220,6 @@
     "sparknotbook源码解析/后端初始化模块.md",
     "sparknotbook源码解析/数据库连接池的源码解析.md",
     "sparknotbook源码解析/日志部分模块.md",
-    "sparknotbook源码解析/定时器任务源码解析.md",
     "日记心得",
     "口腔文档/全口义齿教科书（第六版）-Markdown版.md",
     "sparknotbook源码解析",
@@ -225,7 +228,6 @@
     "第一篇笔记.md",
     "Transformer学习总结.md",
     "口腔文档",
-    "OtherFilesOrPics/transformer.pdf",
-    "OtherFilesOrPics"
+    "OtherFilesOrPics/transformer.pdf"
   ]
 }

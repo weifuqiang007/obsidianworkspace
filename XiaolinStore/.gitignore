@@ -1,0 +1,16 @@
+# Obsidian 每台设备独有的界面状态
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Claudian 会话与运行时状态（知识笔记本身仍会同步）
+.claudian/sessions/
+.claudian/logs/
+
+# Obsidian 回收站与系统临时文件
+.trash/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+

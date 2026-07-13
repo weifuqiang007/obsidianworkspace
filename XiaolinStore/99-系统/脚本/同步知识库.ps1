@@ -6,7 +6,8 @@ $ErrorActionPreference = 'Stop'
 $vaultRoot = Split-Path -Parent (Split-Path -Parent $PSScriptRoot)
 Set-Location -LiteralPath $vaultRoot
 
-if (-not (Test-Path -LiteralPath '.git')) {
+$insideWorkTree = git rev-parse --is-inside-work-tree 2>$null
+if (($LASTEXITCODE -ne 0) -or ($insideWorkTree -ne 'true')) {
     throw "Not a Git repository: $vaultRoot"
 }
 

@@ -1,0 +1,26 @@
+{
+  "setupCompleted": true,
+  "language": "en",
+  "workflowMode": "inbox",
+  "targetFolder": "webclip",
+  "inboxFolder": "webclip/10_Inbox",
+  "migrationTargetFolder": "webclip",
+  "browserVaultName": "XiaolinStore",
+  "dateFormat": "YYYY-MM-DD HH:mm",
+  "noteTemplate": "## Link\n\n{{url}}\n\n## Summary\n\n{{description}}\n\n## Memo\n\n{{note}}",
+  "fetchMetadata": true,
+  "fetchPageTitle": true,
+  "confirmBeforeSave": false,
+  "openAfterClip": false,
+  "fixedTags": [
+    "webclip"
+  ],
+  "addDomainTag": true,
+  "addFolderTags": false,
+  "preventDuplicateUrls": true,
+  "maxFileNameLength": 48,
+  "librarySidebarWidth": 280,
+  "libraryInspectorWidth": 280,
+  "libraryGridColumns": 1,
+  "clipHistory": []
+}

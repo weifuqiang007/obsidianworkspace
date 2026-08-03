@@ -1,0 +1,10 @@
+{
+  "autoSync": true,
+  "excludedFolders": [
+    "99-系统",
+    "Excalidraw",
+    "OtherFilesOrPics",
+    "webclip"
+  ]
+}
+

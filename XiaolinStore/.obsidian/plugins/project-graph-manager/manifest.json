@@ -1,0 +1,10 @@
+{
+  "id": "project-graph-manager",
+  "name": "项目关系图谱管理器",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "自动为仓库顶层项目文件夹创建和维护独立的关系图谱书签。",
+  "author": "Xiaolin",
+  "isDesktopOnly": false
+}
+

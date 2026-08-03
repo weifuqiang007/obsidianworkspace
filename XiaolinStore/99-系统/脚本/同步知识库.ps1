@@ -24,7 +24,13 @@ if ($LASTEXITCODE -ne 0) {
 $pathspecs = @(
     '*.md', '*.canvas', '*.base',
     '*.png', '*.jpg', '*.jpeg', '*.gif', '*.webp', '*.svg', '*.pdf',
-    '.gitignore', 'CLAUDE.md', '99-系统/脚本/*.ps1'
+    '.gitignore', 'CLAUDE.md',
+    '.obsidian/bookmarks.json',
+    '.obsidian/community-plugins.json',
+    '.obsidian/plugins/project-graph-manager/*.json',
+    '.obsidian/plugins/project-graph-manager/*.js',
+    '99-系统/脚本/*.ps1',
+    '99-系统/插件发布/*.zip'
 )
 git add -- @pathspecs
 if ($LASTEXITCODE -ne 0) {

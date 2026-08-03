@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1785725328345,
+      "items": [
+        {
+          "type": "graph",
+          "ctime": 1785725328347,
+          "title": "反身性研究核心代码 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"反身性研究核心代码\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1785725328350,
+          "title": "工作记录 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"工作记录\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1785725328349,
+          "title": "口腔文档 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"口腔文档\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1785725328346,
+          "title": "情感陪伴项目 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"情感陪伴项目\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1785725268995,
+          "title": "RAG学习 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"RAG学习\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        },
+        {
+          "type": "graph",
+          "ctime": 1785725328348,
+          "title": "sparknotbook源码解析 · 项目图谱",
+          "options": {
+            "collapse-filter": false,
+            "search": "path:\"sparknotbook源码解析\"",
+            "showTags": false,
+            "showAttachments": false,
+            "hideUnresolved": true,
+            "showOrphans": true,
+            "collapse-color-groups": true,
+            "colorGroups": [],
+            "collapse-display": true,
+            "showArrow": false,
+            "textFadeMultiplier": -1,
+            "nodeSizeMultiplier": 1,
+            "lineSizeMultiplier": 1,
+            "collapse-forces": true,
+            "centerStrength": 0.5,
+            "repelStrength": 10,
+            "linkStrength": 1,
+            "linkDistance": 100,
+            "scale": 0.45,
+            "close": true
+          }
+        }
+      ],
+      "title": "项目关系图谱"
+    }
+  ]
+}
